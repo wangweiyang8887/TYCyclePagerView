@@ -51,7 +51,7 @@ NS_INLINE TYIndexSection TYMakeIndexSection(NSInteger index, NSInteger section) 
 
 @end
 
-#define kPagerViewMaxSectionCount 200
+#define kPagerViewMaxSectionCount 9
 #define kPagerViewMinSectionCount 18
 
 @implementation TYCyclePagerView
